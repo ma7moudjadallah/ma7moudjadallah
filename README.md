@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+- 🔭 I’m currently working on UCAS as Lecturer
 - 🔭 I’m currently working on Upwork as Freelancer Android Developer
 - 🌱 I’m currently learning Ios Development
 - 👯 I’m looking to collaborate on Mobile Apps Development  
